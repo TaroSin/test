@@ -27,4 +27,5 @@ print("Hello World")
 ```
 
 | C++11 | c++14 | c++17 | c++20 |
+| :---: | :---: | :---: | :---: |
 | auto  | auto1 | auto2 | auto3 |
