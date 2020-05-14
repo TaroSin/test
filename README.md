@@ -30,4 +30,6 @@ print("Hello World")
 | :---: | :---: | :---: | :---: |
 | auto  | auto1 | auto2 | auto3 |
 
-[IT Computer Hompage] https://it.jbnu.ac.kr
+[IT Computer Hompage](http://it.jbnu.ac.kr)
+## Usage
+
