@@ -9,6 +9,8 @@
 - 두번째 리스트
 - 세번째 리스트
 
+아래는 Hello World를 출력하는 C++ 코드입니다.
+
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
